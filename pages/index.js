@@ -10,9 +10,6 @@ export default function Home() {
       </Head>
 
       <section className={utilStyles.headingMd}>
-        <p>
-          Hello! My name is Ashton Martin Zablan. I am a student at the University of the Assumption.
-        </p>
 
         <h2>Why I Chose My IT Specialization</h2>
 
